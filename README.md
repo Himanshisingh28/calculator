@@ -1,6 +1,6 @@
 ## Simple Calculator (HTML & CSS)
 
-A simple and responsive calculator built using **HTML** and **CSS**.  
+A simple and responsive calculator built using **HTML** and **CSS** for showing mathematical calculation.  
 This project is designed for beginners to understand basic web development concepts and UI design.
 
 ---
