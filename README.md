@@ -1,30 +1,42 @@
-## Simple Calculator (HTML & CSS)
+# Calculator using HTML & CSS
 
-A simple and responsive calculator built using **HTML** and **CSS** for showing mathematical calculation.  
-This project is designed for beginners to understand basic web development concepts and UI design.
-
----
+##  Project Description
+This is a simple **Calculator Web Application** built using **HTML and CSS**.  
+The project focuses on creating a clean and responsive user interface for basic arithmetic operations.
 
 ##  Features
-
-- Clean and simple UI
-- Responsive design
-- Supports basic arithmetic operations:
+- User-friendly calculator layout  
+- Responsive design  
+- Supports basic operations:
   - Addition (+)
-  - Subtraction (-)
+  - Subtraction (−)
   - Multiplication (×)
   - Division (÷)
-- Easy to use
-
----
+- Clear (C) button to reset input
 
 ##  Technologies Used
+- **HTML5** – Structure of the calculator  
+- **CSS3** – Styling and layout  
 
-- **HTML5** – Structure of the calculator
-- **CSS3** – Styling and layout
+## 📂 Project Structure
 
----
+##  How to Run the Project
+1. Download or clone the repository
+2. Open the `index.html` file in any web browser
+3. Start using the calculator
 
-##  Author
---Himanshee
+##  Learning Outcome
+- Understanding HTML form elements  
+- Designing layouts using CSS Grid/Flexbox  
+- Improving UI design skills  
 
+##  Future Improvements
+- Add JavaScript for calculator logic  
+- Keyboard support  
+- Dark mode theme  
+
+## 👩‍💻 Author
+**Himanshee**
+
+## 📄 License
+This project is for learning purposes and is free to use.
