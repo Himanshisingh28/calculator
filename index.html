@@ -51,7 +51,6 @@
             expression += op;
             updateDisplay();
         }
-
         function calculate() {
             try {
                 expression = eval(expression).toString();
@@ -61,16 +60,13 @@
                 expression = '';
             }
         }
-
         function clearDisplay() {
             expression = '';
             display.textContent = '0';
         }
-
         function updateDisplay() {
             display.textContent = expression || '0';
         }
     </script>
 </body>
-
 </html>
