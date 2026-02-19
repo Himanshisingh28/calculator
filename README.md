@@ -1,42 +1,61 @@
-# Calculator using HTML & CSS
+# 🧮 Calculator (HTML & CSS)
 
-##  Project Description
-This is a simple **Calculator Web Application** built using **HTML and CSS**.  
-The project focuses on creating a clean and responsive user interface for basic arithmetic operations.
+A simple and responsive calculator built using HTML and CSS.  
+This project is designed to perform basic arithmetic calculations with a clean and modern user interface.
 
-##  Features
-- User-friendly calculator layout  
-- Responsive design  
-- Supports basic operations:
-  - Addition (+)
-  - Subtraction (−)
-  - Multiplication (×)
-  - Division (÷)
-- Clear (C) button to reset input
+---
 
-##  Technologies Used
-- **HTML5** – Structure of the calculator  
-- **CSS3** – Styling and layout  
+## 📌 Features
+
+- Addition (+)
+- Subtraction (−)
+- Multiplication (×)
+- Division (÷)
+- Clear button
+- Responsive design
+- User-friendly layout
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+
+---
 
 ## 📂 Project Structure
 
-##  How to Run the Project
-1. Download or clone the repository
-2. Open the `index.html` file in any web browser
-3. Start using the calculator
+calculator/
+│── index.html
+│── style.css
+└── README.md
 
-##  Learning Outcome
-- Understanding HTML form elements  
-- Designing layouts using CSS Grid/Flexbox  
-- Improving UI design skills  
+---
 
-##  Future Improvements
-- Add JavaScript for calculator logic  
-- Keyboard support  
-- Dark mode theme  
+## ▶️ How to Run
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Double click on `index.html` file  
+   OR open with Live Server in VS Code.
+
+---
+
+## 🎯 Purpose of the Project
+
+This project was created to practice front-end development skills using HTML and CSS.  
+It focuses on layout design, styling, and responsive structure.
+
+---
+
+## 🚀 Future Improvements
+
+- Add JavaScript for functionality
+- Add Dark/Light mode
+- Improve UI animations
+
+---
 
 ## 👩‍💻 Author
-**Himanshee**
-
-## 📄 License
-This project is for learning purposes and is free to use.
+-HIMANSHI
